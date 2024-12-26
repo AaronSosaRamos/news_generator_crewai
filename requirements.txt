@@ -3,4 +3,3 @@ crewai
 crewai_tools
 crewai[tools]
 python-dotenv
-pysqlite3-binary
